@@ -1,4 +1,4 @@
-# frontend_night
+# Frontend Night
 
 Frontend Nightは、Frontend界隈の話を気軽に共有する会です。
 
